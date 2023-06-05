@@ -5,8 +5,8 @@ An easy-to-use expense tracker web application created using HTML, CSS, and Java
 
 ## Features
 
-- Add new expenses with a title, amount, and date
-- Expenses by different categories
+- Add new expenses with a title, amount.
+- Expenses with (+) and (-).
 - View a summary of total expenses .
 - Responsive design for optimal viewing on various devices
 
