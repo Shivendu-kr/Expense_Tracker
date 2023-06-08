@@ -17,7 +17,7 @@ To run the expense tracker locally, follow these steps:
 1. Clone the repository: https://github.com/Shivendu-kr/Expense_Tracker.git
 2. Open the `index.html` file in your preferred web browser.
 
-## Usage
+## Usages
 
 - Add a new expense by filling in the title, amount, and date field. Click the "Add Expense" button to save the expense.
 - User can add new expense and the system will automatically balance the amount.
